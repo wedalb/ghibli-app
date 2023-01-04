@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "699723DE-E91A-4B49-9E84-4A1B09F37CD4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46E8A782-0384-40C5-8DFB-A87851EF7780"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mandatoryChallenge/viewmodels/RandomViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "load()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46E8A782-0384-40C5-8DFB-A87851EF7780 - b67be258d765c03f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mandatoryChallenge.RandomViewModel.load() async -&gt; ()"
+                  moduleName = "mandatoryChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heidialbarazi/Documents/ipraktikum/mandatory-ass/s-heidialbarazi/mandatoryChallenge/mandatoryChallenge/viewmodels/RandomViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "46E8A782-0384-40C5-8DFB-A87851EF7780 - 61fc0174d4f7cf60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for mandatoryChallenge.RandomViewModel.load() async -&gt; ()"
+                  moduleName = "mandatoryChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heidialbarazi/Documents/ipraktikum/mandatory-ass/s-heidialbarazi/mandatoryChallenge/mandatoryChallenge/viewmodels/RandomViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "118C6065-A380-4063-9D3A-FFA2F8846E93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mandatoryChallenge/viewmodels/RandomViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "load()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
